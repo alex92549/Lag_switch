@@ -1,2 +1,15 @@
-# Lag_switch
-I created lag switch its a program when you open up and press start when you playing smth like roblox enemys will think he have problem with internet its like littl bit lagging front of him
+#Lag Switch
+[![N|Solid](http://servon.eu/images/logo.png)](http://servon.eu)
+
+Created by ServerD0own
+---
+About
+----
+Arma 3 Lag Switch is a dynamic lagg switch, which shut all the connection from the application with a single click.
+The application only works on Windows OS, and coded in C# in Visual Studio .NET Framework 7.1.
+
+Disclaimer
+----
+Use this software and its safe.
+lag switch is a trademark or registered trademark of Bohemia Interactive. These terms and all related materials, logos, name and images are copyright @ Bohemia Interactive. ServON is in no w ay associated with or endorsed by Bohemia Interactive.
+![image](https://github.com/ServerD0wn/Lag_switch/assets/140721287/b9972e55-492d-4776-878c-90463f8adc68)
