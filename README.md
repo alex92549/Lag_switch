@@ -7,7 +7,6 @@ Download
 https://github.com/ServerD0wn/Lag_switch/releases/tag/roblox
 
 Lag Switch is a dynamic lagg switch, which shut all the connection from the application with a single click.
-The application only works on Windows OS, and coded in C# in Visual Studio .NET Framework 7.1.
 
 Disclaimer
 ----
