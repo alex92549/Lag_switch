@@ -1,10 +1,8 @@
 #Lag Switch
 ![image](https://github.com/ServerD0wn/Lag_switch/assets/140721287/b9972e55-492d-4776-878c-90463f8adc68)
 Created by ServerD0own
----
-About
 ----
-Arma 3 Lag Switch is a dynamic lagg switch, which shut all the connection from the application with a single click.
+Lag Switch is a dynamic lagg switch, which shut all the connection from the application with a single click.
 The application only works on Windows OS, and coded in C# in Visual Studio .NET Framework 7.1.
 
 Disclaimer
